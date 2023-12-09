@@ -5,7 +5,7 @@ Este Repositório armazena o projeto integrador desenvolvido ao longo da Formaç
 Conta um pouco quem são os usuários da sua aplicação, se possível criar histórias.
 
 ## Requisitos do projeto: 
-Contar um pouco sobre os requisitos gerais do projeto (tipo de arquitetura, quem e quais são as entidades).
+Contar um pouco sobre os requisitos gerais do projeto (tipo de arquitetura, funcionalidades (cadastro de usuários, autenticação), teste, entre outros).
 
 ## Modelagem: 
 Mostrar o diagrama entidade/relacionamento.
@@ -20,6 +20,7 @@ indicar as tecnologias utilizadas na construção da aplicação.
 -> Banco de dados:
 
 -> IDE:
+
 <div align="middle">
   
 <img align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" />
